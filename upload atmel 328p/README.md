@@ -7,6 +7,10 @@ avr-libc
 avr-gcc
 avrdude
 ```
+```Arch:```
+```bash
+sudo pacman -Syyu base-devel avr-libc avr-gcc avrdude
+```
 
 
 ```upload.sh```:
